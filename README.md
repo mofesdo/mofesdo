@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mofesdo&" alt="mofesdo" /></p>
 <h3>Codewars Rank:</h3>
-<p><a href="https://www.codewars.com/users/mofesdo"><img align="center" src="https://www.codewars.com/users/mofesdo/badges/large" alt="codewars rank"></a></p>
+<p><a href="https://www.codewars.com/users/mofesdo" target="_blank" rel="noreferrer"><img align="center" src="https://www.codewars.com/users/mofesdo/badges/large" alt="codewars rank"></a></p>
